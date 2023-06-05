@@ -32,7 +32,7 @@ public class Task1 {
             strings.add(index, text);
         }
     }
-//    private static void printAndDel(int index){
+    //    private static void printAndDel(int index){
 //        System.out.println(strings.get(index));
 //        strings.remove(index);
 //    }

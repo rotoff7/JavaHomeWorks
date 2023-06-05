@@ -21,7 +21,6 @@ public class Task1 {
 
     public static void main(String[] args) {
         List<Integer> newList = createList(10, 100);
-        System.out.println("Исходный список:");
         System.out.println(newList);
         Collections.reverse(newList);
         System.out.println("Перевернутый список:");
